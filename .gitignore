@@ -1,0 +1,29 @@
+# Node modules
+react-app/node_modules/
+nodejs-backend/node_modules/
+nodejs-backend/.env
+nodejs-backend-solved/node_modules
+
+# Build directories
+react-app/build/
+
+# Environment variables
+.env
+**/*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+.venv
+.env
+venv
+
